@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18820" started-at="2018-02-22T14:28:02Z" finished-at="2018-02-22T14:28:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18820" started-at="2018-02-22T14:28:02Z" finished-at="2018-02-22T14:28:21Z">
+      <class name="org.testselenium.AmozonAddingToCart">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:org.testselenium.AmozonAddingToCart@3ffc5af1]" name="invokeBrowser" is-config="true" duration-ms="4211" started-at="2018-02-22T19:58:02Z" finished-at="2018-02-22T19:58:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="addingTocart()[pri:0, instance:org.testselenium.AmozonAddingToCart@3ffc5af1]" name="addingTocart" duration-ms="14584" started-at="2018-02-22T19:58:06Z" finished-at="2018-02-22T19:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingTocart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testselenium.AmozonAddingToCart@3ffc5af1]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-02-22T19:58:21Z" finished-at="2018-02-22T19:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testselenium.AmozonAddingToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

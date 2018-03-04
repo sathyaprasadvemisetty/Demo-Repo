@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="webdriverlibs/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/client-combined-3.0.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="webdriverlibs/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
