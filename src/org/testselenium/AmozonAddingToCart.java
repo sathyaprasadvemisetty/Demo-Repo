@@ -10,6 +10,7 @@ public class AmozonAddingToCart extends PublicLibrary {
 		al.amozonLogin();
 		al.searchForProduct();
 		al.selectingRandomProduct("Dennis Lingo Men's Cotton Black Solid Casual Shirt");
+		System.out.println("Success");
 	}
 	
 	
